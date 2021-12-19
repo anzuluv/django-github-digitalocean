@@ -12,3 +12,5 @@ then
 fi
 
 exec "$@"
+
+/bin/sh
